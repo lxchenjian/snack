@@ -1,11 +1,11 @@
 spring:
    profiles:
       active: dev-6611
-      
+
 ---
 server:
    port: 6611
-   
+ 
 spring:
    porfiles: dev-6611
    application:
